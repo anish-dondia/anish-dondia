@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dondia&theme=radical)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs username=anish-dondia&show_icons=true&locale=en&layout=compact" alt="dsf" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs? username=anish-dondia&show_icons=true&locale=en&layout=compact" alt="dsf" /></p>
