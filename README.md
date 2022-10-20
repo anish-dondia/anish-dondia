@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dondia&theme=radical)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsf&show_icons=true&locale=en&layout=compact" alt="dsf" /></p>
+<img src="https://camo.githubusercontent.com/774520facfb92575c862b7a2b4b23264e13b0e41067f58fd38bad38415fde88f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446f7378303031266c616e67735f636f756e743d3130266c61796f75743d636f6d70616374267469746c655f636f6c6f723d66666626746578745f636f6c6f723d3030653766662662675f636f6c6f723d313531353135" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dosx001&amp;langs_count=10&amp;layout=compact&amp;title_color=fff&amp;text_color=00e7ff&amp;bg_color=151515" style="max-width: 100%;">
