@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📚 Most experinced within HTML, CSS/ CSS frameworks and JavaScript. 
 - 💻 Efficient with using Agile Methodologies such as Scrum, Kanban and Waterwall. Proficient in code tetsing methods. 
 
-##Github Stats
+## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dondia&theme=radical)
