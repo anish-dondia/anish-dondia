@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💻 Efficient with using Agile Methodologies such as Scrum, Kanban and Waterwall. Proficient in code tetsing methods. 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dondia&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dondia&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dondia&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dondia&theme=onedark)
