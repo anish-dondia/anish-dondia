@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 
 - 👀 I'm intersted in improving my current skills in game development via Unity and C#!
 - 🌍 I am based in London. 
 - 📚 Most experinced within HTML, CSS/ CSS frameworks and JavaScript. 
-- 💻 Efficient with using Agile Methodologies such as Scrum, Kanban and Waterwall. Proficient in code tetsing. 
+- 💻 Efficient with using Agile Methodologies such as Scrum, Kanban and Waterwall. Proficient in code tetsing methods. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dondia&theme=radical)
