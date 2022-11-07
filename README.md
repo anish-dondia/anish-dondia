@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on improving my skills on ReactJS.
-- 👀 I'm intersted in improving my current skills in game development via Unity and C#!
+- 👀 I'm intersted in game development via Unity with C# and have good experince!
 - 🌍 I am based in London. 
 - 📚 Most experinced within HTML, CSS/ CSS frameworks and JavaScript. 
 - 💻 Efficient with using Agile Methodologies such as Scrum, Kanban and Waterfall. Proficient in code testing methods. 
