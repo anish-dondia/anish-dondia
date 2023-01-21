@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on improving my skills on ReactJS.
+- 🔭 I’m currently working on improving my skills on ReactJS and SQL.
 - 👀 I'm intersted in game development via Unity with C# and have good experince!
 - 🌍 I am based in London. 
 - 📚 Most experinced within HTML, CSS/ CSS frameworks and JavaScript. 
